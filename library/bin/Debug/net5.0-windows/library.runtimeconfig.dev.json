@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Golu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Golu\\.nuget\\packages"
+    ]
+  }
+}

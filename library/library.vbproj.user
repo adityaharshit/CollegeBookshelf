@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin24.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reserve.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
